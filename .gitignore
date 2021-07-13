@@ -1,0 +1,5 @@
+Segmentation/__pycache__/
+Segmentation/results/
+Segmentation/checkpoints/
+Segmentation/dataset/
+Segmentation/logs/
