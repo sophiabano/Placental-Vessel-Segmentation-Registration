@@ -3,3 +3,5 @@ Segmentation/results/
 Segmentation/checkpoints/
 Segmentation/dataset/
 Segmentation/logs/
+RegistrationVisualisation/MosaicVisVideo/
+RegistrationVisualisation/__pycache__/
