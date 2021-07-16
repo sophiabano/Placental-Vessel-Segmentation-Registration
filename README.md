@@ -1,4 +1,4 @@
-# Placental-Vessel-Segmentation-Registration
+# MICCAI2020 - Deep Placental Vessel Segmentation for Fetoscopic Mosaicking
 
 This repository contains the placental vessel segmentation script for which the results are reported in [1] and the mosaic visualisation script given the pairwise homography estimation between consecutive images from a video sequence. 
 A sample data is also included in the registration visualisation code that provides a running visualisation example when this code is executed. 
